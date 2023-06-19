@@ -1,0 +1,13 @@
+{
+  "euphoria": {
+    "cw20-token": {
+      "code_id": 1017,
+      "addresses": {
+        "default": "aura15qqfld2jg9cp3uwrq8lq56thgl2tcs3x9d4rm7ykpn546z5td9lqhqapqn"
+      },
+      "proposal": {
+        "store_code": null
+      }
+    }
+  }
+}
